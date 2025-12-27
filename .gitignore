@@ -1,0 +1,5 @@
+# Ignore these folders and files
+knowledge/
+debug/
+checker_linux
+tests/
